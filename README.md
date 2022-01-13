@@ -1,5 +1,11 @@
 # Reloj
 
-#Prueba 1
- Realizamos un reloj para practicar nuestras habilidades de Front End.
+### Descipción
 
+Realizamos un reloj digital para practicar nuestras habilidades de Front End y el trabajo en equipo.
+
+### Tecnologías utilizadas
+
+- HTML
+- CSS
+- JavaScript
