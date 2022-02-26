@@ -1,5 +1,11 @@
 # Reloj
 
-## Descripción
+### Descipción
 
- Realizamos un reloj para practicar nuestras habilidades de Front End. 
+Realizamos un reloj digital para practicar nuestras habilidades de Front End y el trabajo en equipo.
+
+### Tecnologías utilizadas
+
+- HTML
+- CSS
+- JavaScript
