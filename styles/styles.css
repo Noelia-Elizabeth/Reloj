@@ -12,6 +12,7 @@
 /**************Desktop*****************/
 
 body {
+    text-shadow: 5px 5px 0px rgba(0, 0, 0, 0.2);
     height: 100vh;
     width: 100vw;
     background-image: url("../assets/background_image.jpg");
@@ -32,12 +33,15 @@ body {
 }
 
 #clock{
+    /* text-shadow: 4px 3px 0px rgb(57, 84, 173), 9px 8px 0px rgba(0,0,0,0.15); */
+    text-shadow: 0px 3px 0px #434bbd,
+                 0px 14px 10px rgba(0,0,0,0.15),
+                 0px 24px 2px rgba(0,0,0,0.1),
+                 0px 34px 30px rgba(0,0,0,0.1);
     background-color:transparent;
     font-family: Blanka, sans-serif;
     font-size: 5vw;
-    text-shadow:0px 0px 1px #fff;
     color:rgb(66, 213, 250);
-    text-shadow:0px 0px 1px #333;
     position:relative;
     top:-27px;
     left:-10px;
